@@ -23,8 +23,9 @@ To compile and run tests also execute:
 ## Overview
 
 1. _Team members:_
-	1. *Marton Orova*
-	1. *Balazs Prehoda*
+	1. **Marton Orova**
+	1. **Balazs Prehoda**
+
 This file was opened and edited with `nano README.md`
 
 ### Structure
