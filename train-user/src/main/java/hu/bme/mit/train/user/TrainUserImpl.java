@@ -3,6 +3,7 @@ package hu.bme.mit.train.user;
 import hu.bme.mit.train.interfaces.TrainController;
 import hu.bme.mit.train.interfaces.TrainUser;
 
+// This class represents the user, who can control a train with a joystick
 public class TrainUserImpl implements TrainUser {
 
 	private TrainController controller;
