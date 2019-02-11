@@ -14,6 +14,10 @@ public class TrainTachograph {
         system = ts;
     }
 
+    public boolean isEmpty() {
+        return table.isEmpty();
+    }
+
     public void recordValue(){
         int referenceSpeed = system.getController().getReferenceSpeed();
         int position = system.getUser().getJoystickPosition();
