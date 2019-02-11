@@ -22,6 +22,11 @@ To compile and run tests also execute:
 
 ## Overview
 
+1. _Team members:_
+	1. *Marton Orova*
+	1. *Balazs Prehoda*
+This file was opened and edited with `nano README.md`
+
 ### Structure
 
 The application represents a simple train controller system with the following three components.
